@@ -1,4 +1,4 @@
-# logistic-map
+# Logistic Map
 
 Generates a bifurcation diagram of the logistic map obtained by plotting as a function of <i>r</i> a series of values for <i>x<sub>n</sub></i> obtained by starting with a random value <i>x<sub>0</sub></i>, iterating many times, and discarding the first points corresponding to values before the iterates converge to the attractor.
 
