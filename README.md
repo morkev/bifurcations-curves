@@ -10,7 +10,9 @@ In other words, the set of fixed points of <i>x<sub>n</sub></i> corresponding to
 
 # Peano-Gosper Curve
 
-The Gosper island can be duplicated seven times and linked to create a shape that is comparable to it in all dimensions but scaled up by a factor of √7. This procedure results in a scaled-up version of the following iteration of the island when used with an intermediate iteration of the island. A tessellation of the plane results from endlessly repeating this technique. The curve itself can also be expanded to encompass the entire plane with an infinite curve.
+The Gosper island can be duplicated seven times and linked to create a shape that is comparable to it in all dimensions but scaled up by a factor of √7. This procedure results in a scaled-up version of the following iteration of the island. 
+
+A tessellation of the plane results from endlessly repeating this technique. The curve itself can also be expanded to encompass the entire plane with an infinite curve.
 
 Effective hierarchical hexagonal clustering and indexing can also be achieved using the Gosper curve.
 
